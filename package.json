@@ -4,9 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
 }
